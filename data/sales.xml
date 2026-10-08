@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+    <sale>
+        <id>6</id>
+        <product>Наушники</product>
+        <quantity>4</quantity>
+        <price>2500.00</price>
+        <sale_date>2026-10-04</sale_date>
+    </sale>
+    <sale>
+        <id>2</id>
+        <product>Мышь</product>
+        <quantity>5</quantity>
+        <price>1200.00</price>
+        <sale_date>2026-10-02</sale_date>
+    </sale>
+</sales>

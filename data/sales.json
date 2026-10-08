@@ -1,0 +1,16 @@
+[
+  {
+    "id": 4,
+    "product": " Монитор ",
+    "quantity": 3,
+    "price": "18000,50",
+    "sale_date": "03.10.2026"
+  },
+  {
+    "id": 5,
+    "product": "",
+    "quantity": 1,
+    "price": 900,
+    "sale_date": "2026-10-04"
+  }
+]
